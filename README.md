@@ -1,2 +1,2 @@
-# PERFORM DATA CLEANING + CALCULATE SUMMARY STATISTICS---TECHNOHACKS-SOLUTIONS---DATA-ANALYSIS---PERFORM-DATA-CLEANING-CALCULATE
+# From Raw Data to Insights: EDA, Cleaning & Statistical Analysis
 Cleaned and prepared a dataset for analysis by removing duplicates, handling missing values, correcting data types, and addressing outliers. Performed summary statistics on key features such as Age and Fare, uncovering insights into survivor counts and data distributions. Skills gained: Data Cleaning, Statistical Analysis, Outlier Detection, Data Wrangling.
